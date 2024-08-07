@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shiven's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="home">
+        <div class="hero">
+            <h1>Welcome to My Portfolio</h1>
+            <p>Hi, I'm Shiven! I am a Computer Science major specializing in software development. Explore my projects and experience below.</p>
+        </div>
+    </section>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a senior year Computer Science student with a passion for developing innovative software solutions. I have experience in web development, real-time data processing, and creating user-centered designs.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Smart Health Monitoring System</h3>
+            <p>Developed a comprehensive Smart Health Monitoring System that integrates wearable technology with real-time data analysis to track and monitor vital signs of patients.</p>
+            <a href="project-details.html">Learn More</a>
+        </div>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me at <a href="mailto:shiven9019@gmail.com">shiven9019@gmail.com</a> or call me at (561) 427-8937.</p>
+        <ul class="social-links">
+            <li><a href="https://www.linkedin.com/in/shiven9019">LinkedIn</a></li>
+            <li><a href="https://github.com/shiven9019">GitHub</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Shiven. All rights reserved.</p>
+    </footer>
+</body>
+</html>
